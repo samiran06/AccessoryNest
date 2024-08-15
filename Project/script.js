@@ -1,1 +1,0 @@
-console.log('Mobile Accessories landing page loaded.');
